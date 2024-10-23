@@ -11,3 +11,5 @@ print(7*3)
 print(81/9)
 
 print(3**2)
+
+print("lo que sea xd")
