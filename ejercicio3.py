@@ -33,7 +33,13 @@ print("%s Millas son 10 Kilometros" % km_a_millas)
 print("La velocidad es: %s millas por segundos" % velocidad)
 print ("\n")
 
-
-
+# ToDo:
+# Para convertir de millas por segundo a millas por hora, 
+# multiplicamos la velocidad en millas por segundo por 3600, ya que una hora tiene 3600 segundos.
+# Terminar la convesiion, aqui pongo lo que me hace falta implementar:
+# 0.0024243482139826703millas/segundo×3600segundos/hora=8.727653570337613millas/hora
+# Así que 
+# 0.0024243482139826703
+# 0.0024243482139826703 millas por segundo es aproximadamente 8.73 millas por hora.
 
 
