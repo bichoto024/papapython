@@ -1,5 +1,8 @@
 # matias miranda martinez
 # 3. 11. 2024
+#
+# Este script resuelve el ejercicio 2.2 de la pagina 15.
+#
 # El volumen de una esfera con radio r es 4/3*π*r**3. 
 # ¿Cuál es el volumen de una esfera con radio 5?
 
